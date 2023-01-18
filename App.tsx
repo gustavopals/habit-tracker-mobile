@@ -21,7 +21,7 @@ export default function App() {
 	}
 	return (
 		<View style={styles.container}>
-			<Text style={styles.text}>Gustavo André Pals</Text>
+			<Text style={styles.text}>Meu belo aplicativo</Text>
 			<StatusBar
 				barStyle="light-content"
 				backgroundColor="transparent"
